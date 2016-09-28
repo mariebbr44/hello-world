@@ -1,4 +1,4 @@
-### Lob Letter Generator
+# Lob Letter Generator
 
 This python program takes in the user’s information and a message, then outputs a PDF letter addressing the user’s governor.
 
